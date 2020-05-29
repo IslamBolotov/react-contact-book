@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "firstName": "Islam",
+      "lastName": "Bolotov",
+      "phoneNumber": "+(996)-702-32-33-75",
+      "id": 1
+    },
+    {
+      "firstName": "wefwefw",
+      "lastName": "ververveef",
+      "phoneNumber": "+(156)-121-56-15-61",
+      "id": 3
+    },
+    {
+      "firstName": "umynhtbgrvfdcs",
+      "lastName": "ververvkumjnyhgb",
+      "phoneNumber": "+(156)-121-56-15-29",
+      "id": 4
+    },
+    {
+      "firstName": "ewfwefw",
+      "lastName": "wefwef",
+      "phoneNumber": "+(999)-891-52-56-28",
+      "id": 6
+    },
+    {
+      "firstName": "wefwef",
+      "lastName": "wefwef",
+      "phoneNumber": "+(999)-621-89-15-61",
+      "id": 7
+    }
+  ]
+}
